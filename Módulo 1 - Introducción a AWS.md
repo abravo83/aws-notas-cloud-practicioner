@@ -65,5 +65,22 @@ Hay tres formas.
 * Evitar previsiones y adivinar sobre la capacidad de las necesidades de estructura.  Podemos escalar o desescalar sobre la marcha.
 *  Aprovechar las economías de escala beneficiándome del uso agregado de los usuarios, que nos permite obtener la tecnología más adecuada en todo momento sin costes de actualización.
 * Velocidad y agilidad a la hora de pasar de necesidades de recursos a obtención de dichos recursos.
-* Facilidad de dar un servicio GLOBAL. Si mis clientes están en todo el mundo, al usar la infraestructura global de la nube puedo proveer del mejor servicio a cada cliente.
-* 
+* Facilidad de dar un servicio GLOBAL en minutos. Si mis clientes están en todo el mundo, al usar la infraestructura global de la nube puedo proveer del mejor servicio a cada cliente.
+
+## Las 6 ventajas del Cloud Computing
+
+1.  Cambiar gastos fijos por gastos variables
+2.  Beneficiarse de las enormes economías de escala.
+3.  Dejar de adivinar capacidad
+4.  Incrementar velocidad y agilidad.
+5.  Dejar de gastar dinero en mantener y montar centros de datos
+6.  Ser global en minutos.
+## Categorías de servicio principales
+
+1.  Procesamiento
+2.  Redes y entrega de contenido
+3.  Almacenamiento
+4.  Bases de dato
+5.  Seguridad, identidad y cumplimiento
+6.  Administración y gobernanza
+
